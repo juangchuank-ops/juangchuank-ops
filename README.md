@@ -74,20 +74,6 @@ MiniMax Agent 反向网关：**OpenAI 兼容接口** + **号池调度** + **管�
 ### 🚀 [dola2api](https://github.com/juangchuank-ops/dola2api) · ![stars](https://img.shields.io/github/stars/juangchuank-ops/dola2api?style=flat-square&color=f1c40f)
 
 把 Dola 变成 OpenAI 兼容接口 · 号池管理 · 管理台 · 纯 Go 标准库。
-
-### 🌟 [Afterglow](https://github.com/juangchuank-ops/Afterglow)
-
-使用社交软件聊天记录结合**向量数据库**，让 AI 更好地扮演对方的角色。
-在**不微调模型**的情况下即可达到可观的效果。
-
-### 🌟 [xianyu-auto-reply-fix](https://github.com/juangchuank-ops/xianyu-auto-reply-fix)
-
-闲鱼智能客服系统：多账号管理、AI 自动回复、自动发货确认、多渠道消息通知，附带完整 Web 管理后台。
-
-### 🌟 [FishTool](https://github.com/juangchuank-ops/FishTool)
-
-完全基于 AstrBot 开发的 **AI 运营工具箱**，面向新手个人创作者、无需学习成本的个人自媒体智能运营助理。
-
 ---
 
 ## 项目总览
