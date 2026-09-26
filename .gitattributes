@@ -1,0 +1,4 @@
+# 防止二进制/内嵌 base64 资源被换行符转换破坏
+*.png  binary
+*.jpg  binary
+*.svg  -text
